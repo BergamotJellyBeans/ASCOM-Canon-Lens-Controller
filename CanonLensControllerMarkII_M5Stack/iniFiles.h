@@ -10,7 +10,7 @@
 
   Date-written. Feb 16,2019.
   Last-modify.  Apr 09,2021.
-  mailto:			bergamot.jellybeans@icloud.com
+  mailto:		bergamot.jellybeans@icloud.com
 
   -Overview of the functions
   This class mimics the Windows INI file.

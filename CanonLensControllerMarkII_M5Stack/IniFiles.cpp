@@ -10,7 +10,7 @@
 
   Date-written. Feb 16,2019.
   Last-modify.  Apr 09,2021.
-  mailto:			bergamot.jellybeans@icloud.com
+  mailto:		bergamot.jellybeans@icloud.com
 
   -Overview of the functions
   This class mimics the Windows INI file.
@@ -48,7 +48,7 @@ bool IniFiles::addLines( String newData )
 }
 
 // Read one line.
-bString IniFiles::readLine( void )
+String IniFiles::readLine( void )
 {
   char buff[256], *p;
   String stream;
